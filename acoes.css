@@ -1,0 +1,45 @@
+body {
+    color: antiquewhite;
+        background-color: rgb(88, 135, 150);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    ul {
+        display:flex;
+        justify-content:space-between;
+        list-style-type:none;
+        align-items:center;
+        padding: 16px;
+    
+    }
+     a {
+        color: white;
+        text-decoration: none;
+     }
+     img{
+        width: 900px;
+    height: 250px;
+     }
+     .center{
+        text-align: center;
+     }
+
+     h1{
+        color: rgb(247, 154, 169);
+        border-bottom-style:3px solid black;
+    }
+    h2{
+        color: rgb(248, 239, 239);
+    }
+    p{
+        color:aliceblue;
+    }
+    .container{
+        padding:0px 50px;
+    }
+    nav a:hover{
+        color:rgb(247, 154, 169);
+    }
+    p a:hover{
+        color:rgb(247, 154, 169);
+    }
